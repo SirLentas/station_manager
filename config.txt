@@ -1,0 +1,11 @@
+20  Number of Buses
+2   Number of Bays 
+3  Capacity of a ASK bay
+2   Capacity of a VOR bay
+4   Capacity of a PEL bay
+30  Bus Capacity
+4   Park Period of a Bus
+1   Mantime of a Bus
+10   Secs per display of Current Station Condition 
+20   Secs per display of Station Stats 
+40  Max number of incoming passengers
